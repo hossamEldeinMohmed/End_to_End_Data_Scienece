@@ -1,8 +1,6 @@
 End-to-end Data Science project
 ==============================
-
-This is the repo with the notebooks, code, and additional material used in the ITI's workshop. The goal of the sessions was to illustrate the end-to-end process of an real project.
-
+to Data :https://drive.google.com/drive/folders/1dVGOGkOVqT-fJiSpeNMyGajg8gkqFB22 
 
 ### Problem statement
 > Our (fictional) client is an IT educational institute. They have reached out to us has reach out with the following:
