@@ -3,10 +3,6 @@ End-to-end Data Science project
 
 This is the repo with the notebooks, code, and additional material used in the ITI's workshop. The goal of the sessions was to illustrate the end-to-end process of an real project.
 
-### Additional material
-In addition to the notebooks and code, the following material is also available: 
-+ **Video recordings** of the sessions are [uploaded to youtube](https://www.youtube.com/playlist?list=PLatl6hdtJ0RkUSCChqOAVhnv5juWaoAyK)
-+ **Slide decks** are also added to this repo [here](https://github.com/Deena-Gergis/iti_ds_live/tree/master/slide_decks)
 
 ### Problem statement
 > Our (fictional) client is an IT educational institute. They have reached out to us has reach out with the following:
